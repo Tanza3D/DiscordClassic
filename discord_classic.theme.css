@@ -1,0 +1,11 @@
+/**
+ * @name Discord Classic
+ * @author Hubz & Juicy
+ * @version 1.6
+ * @description It's time to ditch Discord's clunky interface. Discord Classic is here. An almost exact copy of the classical Discord UI design, with custom made icons, close attention to detail, and much more. Experience 2015 again.
+ * @source https://github.com/Hubza/DiscordClassic
+ * @website https://discordclassic.untone.uk/
+ */
+
+/* IMPORT CSS */
+@import url(https://github.com/Hubza/DiscordClassic/blob/main/src/discordclassic.theme.css);
