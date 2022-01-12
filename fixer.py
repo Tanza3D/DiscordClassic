@@ -19,9 +19,7 @@ for line in lines:
     xline = line.split(" = ")
 
     if(xline[0] in css):
-        print("found in css. replacing");
-        if(xline[0] == "button-14-BFJ"):
-            print("button-14-BFJ");
+        print("found" + xline[0] + " in css. replacing with " + xline[1] + ".")
         css = css.replace(xline[0], xline[1])
 
 
